@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GUII">
+  <grid id="27dc6" layout-manager="CardLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="44" y="23" width="449" height="354"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children/>
+  </grid>
+</form>
